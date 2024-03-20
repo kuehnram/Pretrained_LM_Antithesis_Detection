@@ -21,3 +21,14 @@ Original raw dataset.
 
 antithesis_phrases_annotated_refactored.csv
 This is the dataset that was annotated if an antithesis is present.
+
+Please cite this work:
+@inproceedings{kuhn2024antithesis,
+  title = {{Using Pre-trained Language Models in an End-to-End Pipeline for Antithesis Detection}},
+  booktitle = {Proceedings of the 2024 Joint International Conference On Computational Linguistics, Language Resources And Evaluation},
+  author = {K{\"u}hn, Ramona and Saadi, Khouloud and Mitrovi{\'c}, Jelena and Granitzer, Michael},
+  year = {2024},
+  month = may,
+  address = {Torino, Italy},
+  note = {to be published}
+}
